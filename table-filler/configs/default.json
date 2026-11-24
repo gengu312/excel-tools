@@ -1,0 +1,28 @@
+{
+  "mappings": [
+    {
+      "source": "数量",
+      "targets": [
+        "数量"
+      ]
+    },
+    {
+      "source": "平台参考号",
+      "targets": [
+        "订单号"
+      ]
+    },
+    {
+      "source": "平台参考号",
+      "targets": [
+        "PO#"
+      ]
+    },
+    {
+      "source": "发货仓库",
+      "targets": [
+        "海外仓名称"
+      ]
+    }
+  ]
+}
